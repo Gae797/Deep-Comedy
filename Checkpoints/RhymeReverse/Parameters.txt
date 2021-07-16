@@ -1,0 +1,5 @@
+Number of layers: 4
+d_model: 128
+dff: 256
+Number of heads: 4
+Dropout rate: 0.1
